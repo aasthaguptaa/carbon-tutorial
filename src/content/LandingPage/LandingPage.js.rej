@@ -1,0 +1,26 @@
+diff a/src/content/LandingPage/LandingPage.js b/src/content/LandingPage/LandingPage.js	(rejected hunks)
+@@ -45 +45,3 @@ const LandingPage = () => {
+-                    <h2 className="landing-page__subheading">What is Carbon?</h2>
++                    <h2 className="landing-page__subheading">
++                      What is Carbon?
++                    </h2>
+@@ -47,4 +49,5 @@ const LandingPage = () => {
+-                      Carbon is IBM’s open-source design system for digital products and
+-                      experiences. With the IBM Design Language as its foundation, the
+-                      system consists of working code, design tools and resources, human
+-                      interface guidelines, and a vibrant community of contributors.
++                      Carbon is IBM’s open-source design system for digital
++                      products and experiences. With the IBM Design Language as
++                      its foundation, the system consists of working code,
++                      design tools and resources, human interface guidelines,
++                      and a vibrant community of contributors.
+@@ -68,2 +71,2 @@ const LandingPage = () => {
+-                    Rapidly build beautiful and accessible experiences. The Carbon kit
+-                    contains all resources you need to get started.
++                    Rapidly build beautiful and accessible experiences. The
++                    Carbon kit contains all resources you need to get started.
+@@ -78,2 +81,2 @@ const LandingPage = () => {
+-                    Carbon provides styles and components in Vanilla, React, Angular, and
+-                    Vue for anyone building on the web.
++                    Carbon provides styles and components in Vanilla, React,
++                    Angular, and Vue for anyone building on the web.
